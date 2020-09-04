@@ -1,0 +1,12 @@
+/Users/christiankirschberg/repos/school/trains/bin/Debug/netcoreapp3.1/trains.deps.json
+/Users/christiankirschberg/repos/school/trains/bin/Debug/netcoreapp3.1/trains.runtimeconfig.json
+/Users/christiankirschberg/repos/school/trains/bin/Debug/netcoreapp3.1/trains.runtimeconfig.dev.json
+/Users/christiankirschberg/repos/school/trains/bin/Debug/netcoreapp3.1/trains.dll
+/Users/christiankirschberg/repos/school/trains/bin/Debug/netcoreapp3.1/trains.pdb
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.csprojAssemblyReference.cache
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.AssemblyInfoInputs.cache
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.AssemblyInfo.cs
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.csproj.CoreCompileInputs.cache
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.dll
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.pdb
+/Users/christiankirschberg/repos/school/trains/obj/Debug/netcoreapp3.1/trains.genruntimeconfig.cache
